@@ -1,0 +1,66 @@
+{
+  "" : {
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PromisesSwift.build/Objects-normal/arm64/PromisesSwift-master.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PromisesSwift.build/Objects-normal/arm64/PromisesSwift-master.dia",
+    "emit-module-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PromisesSwift.build/Objects-normal/arm64/PromisesSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PromisesSwift.build/Objects-normal/arm64/PromisesSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PromisesSwift.build/Objects-normal/arm64/PromisesSwift-master.swiftdeps"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+All.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Always.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Any.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Async.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Await.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Catch.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Delay.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Do.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Race.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Recover.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Reduce.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Retry.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Testing.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Then.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Timeout.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Validate.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/Promise+Wrap.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/PromisesSwift/Sources/Promises/PromiseError.swift" : {
+
+  }
+}

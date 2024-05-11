@@ -1,29 +1,29 @@
-//
-//  StorageController.swift
-//  Filling
-//
-//  Created by mac on 25.02.2024.
-//
+import FirebaseStorage
+import Foundation
 
-import UIKit
+public class StorageController {
+    static let shared = StorageController()
 
-class StorageController: UIViewController {
+    private let bucket = Storage.storage().reference()
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+    public enum IGStorageManagerError: Error {
+        case failedToDownload
     }
-    
 
-    /*
-    // MARK: - Navigation
 
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
+    internal func uploadUserPost(model: Userpost, completion: @escaping (Result<URL, Error>) -> Void) {
+
     }
-    */
+
+    public func downloadImage(with reference: String, completion: @escaping (Result<URL, IGStorageManagerError>) -> Void) {
+        bucket.child(reference).downloadURL(completion: { url, error in
+            guard let url = url, error == nil else {
+                completion(.failure(.failedToDownload))
+                return
+            }
+
+            completion(.success(url))
+        })
+    }
 
 }

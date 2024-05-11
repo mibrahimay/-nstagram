@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "d8b57755b1aa57c0f27d41729c7246ffdc1dbe670b71ac529df6d579b2a8d9ab"
+build_start_time: [1714206884, 428145000]
+build_end_time: [1714206887, 330147000]
+inputs:
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1708180991, 532496498]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1708180991, 535174739]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : [1708180991, 535684639]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1708180991, 536162539]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1708180991, 536490194]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1708180991, 536803934]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1708180991, 532838903]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : [1708180991, 532213841]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1708180991, 536945929]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1708180991, 536646939]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1708180991, 534759170]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1708180991, 535379232]

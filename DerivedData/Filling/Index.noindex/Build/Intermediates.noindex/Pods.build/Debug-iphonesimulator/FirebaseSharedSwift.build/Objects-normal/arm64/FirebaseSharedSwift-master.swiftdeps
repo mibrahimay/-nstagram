@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "30c68926e6768b14cdcd0a8fdcba606859f4ced5c7cdacfbe5c01390e3f8c931"
+build_start_time: [1714206884, 401371000]
+build_end_time: [1714206887, 219283000]
+inputs:
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/FirebaseRemoteConfigValueDecoding.swift"
+  : [1708180999, 10578707]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/third_party/FirebaseDataEncoder/FirebaseDataEncoder.swift"
+  : [1708180999, 10344882]

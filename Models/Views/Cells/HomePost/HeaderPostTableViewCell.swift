@@ -4,10 +4,15 @@
 //
 //  Created by mac on 24.02.2024.
 //
-
+import SDWebImage
 import UIKit
 
+protocol HeaderPostTableViewCellDelegate : AnyObject {
+    func didClickMoreButton()
+}
+
 class HeaderPostTableViewCell: UITableViewCell {
+    weak var delegate : HeaderPostTableViewCellDelegate?
     static let identifier = "HeaderPostTableViewCell"
     
     private let profilePhotoImageView : UIImageView = {
@@ -38,7 +43,7 @@ class HeaderPostTableViewCell: UITableViewCell {
         moreButton.addTarget(self, action: #selector(didClickButton), for: .touchUpInside)
     }
     @objc private func didClickButton (){
-        
+        delegate?.didClickMoreButton()
     }
     
     required init?(coder: NSCoder) {

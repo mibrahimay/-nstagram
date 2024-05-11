@@ -1,0 +1,34 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "595198a8ba681615db17669151fe3c0028a36a756615ce962e6060bc8e63ada9"
+build_start_time: [1714206887, 479822000]
+build_end_time: [1714206888, 128450000]
+inputs:
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/AsyncAwait.swift": [1708202711, 854553297]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageDeleteTask.swift"
+  : [1708202711, 851244105]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetDownloadURLTask.swift"
+  : [1708202711, 851575175]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetMetadataTask.swift"
+  : [1708202711, 853903575]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageListTask.swift": [1708202711, 854255560]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StoragePath.swift": [1708202711, 851412473]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTaskState.swift"
+  : [1708202711, 853588922]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTokenAuthorizer.swift"
+  : [1708202711, 853760414]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageUpdateMetadataTask.swift"
+  : [1708202711, 853423262]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageUtils.swift": [1708202711, 851842288]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/Result.swift": [1708202711, 850891954]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/Storage.swift": [1708202711, 847466809]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageComponent.swift": [1708202711, 848823667]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageConstants.swift": [1708202711, 855358513]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageDownloadTask.swift": [1708202711, 848295440]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageError.swift": [1708202711, 856009152]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageListResult.swift": [1708202711, 848534680]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageMetadata.swift": [1708202711, 855149897]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageObservableTask.swift": [1708202711, 848073408]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageReference.swift": [1708202711, 855647292]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTask.swift": [1708202711, 850563176]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTaskSnapshot.swift": [1708202711, 847697132]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageUploadTask.swift": [1708202711, 854851368]

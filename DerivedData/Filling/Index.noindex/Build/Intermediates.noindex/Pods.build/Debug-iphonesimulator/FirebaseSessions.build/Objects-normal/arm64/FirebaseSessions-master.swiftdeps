@@ -1,0 +1,46 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "e4a53108777ec4ebb51209b66021ef5d330b1a1910b709123fa774b903f79583"
+build_start_time: [1714206887, 485969000]
+build_end_time: [1714206890, 369963000]
+inputs:
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/ApplicationInfo.swift": [1708180999, 3502157]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Development/DevEventConsoleLogger.swift"
+  : [1708180999, 4338629]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Development/NanoPB+CustomStringConvertible.swift"
+  : [1708180999, 4493998]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/EventGDTLogger.swift": [1708180999, 4076013]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/FirebaseSessions.swift": [1708180999, 5822203]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/FirebaseSessionsError.swift": [1708180999, 6186441]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/GoogleDataTransport+GoogleDataTransportProtocol.swift"
+  : [1708180999, 3930684]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Installations+InstallationsProtocol.swift"
+  : [1708180999, 5073187]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Logger.swift": [1708180999, 4794905]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/NetworkInfo.swift": [1708180999, 3763357]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Public/SessionsDependencies.swift"
+  : [1708180999, 5560837]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Public/SessionsProvider.swift"
+  : [1708180999, 5317470]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Public/SessionsSubscriber.swift"
+  : [1708180999, 5445132]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/SessionCoordinator.swift": [1708180999, 5692999]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/SessionGenerator.swift": [1708180999, 4937192]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/SessionInitiator.swift": [1708180999, 3633903]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/SessionStartEvent.swift": [1708180999, 6074319]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Settings/LocalOverrideSettings.swift"
+  : [1708180999, 3256582]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Settings/RemoteSettings.swift"
+  : [1708180999, 2575147]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Settings/SDKDefaultSettings.swift"
+  : [1708180999, 2903803]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Settings/SessionsSettings.swift"
+  : [1708180999, 2689310]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Settings/SettingsCacheClient.swift"
+  : [1708180999, 2801015]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Settings/SettingsDownloadClient.swift"
+  : [1708180999, 3135753]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Settings/SettingsProtocol.swift"
+  : [1708180999, 3022299]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Settings/SettingsProvider.swift"
+  : [1708180999, 3374204]
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseSessions/FirebaseSessions/Sources/Time.swift": [1708180999, 4658618]

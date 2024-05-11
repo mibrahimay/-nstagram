@@ -1,9 +1,3 @@
-//
-//  ProfileTabsCollectionReusableView.swift
-//  Filling
-//
-//  Created by mac on 9.03.2024.
-//
 
 import UIKit
 protocol ProfileTabsCollectionReusableViewDelegate : AnyObject {
@@ -33,7 +27,7 @@ class ProfileTabsCollectionReusableView: UICollectionReusableView {
         button.setBackgroundImage(UIImage(systemName: "tag"), for: .normal)
         return button
     } ()
-
+    
     override init(frame :CGRect) {
         super.init(frame: frame)
         backgroundColor = .systemBackground
@@ -41,8 +35,8 @@ class ProfileTabsCollectionReusableView: UICollectionReusableView {
         addSubview(gridButton)
         gridButton.addTarget(self, action: #selector(didClickGridButtonTab), for: .touchUpInside)
         taggedButton.addTarget(self, action: #selector(didClickTaggedButtonTab), for: .touchUpInside)
-
-
+        
+        
     }
     @objc private func didClickGridButtonTab (){
         gridButton.tintColor = .systemBlue
@@ -64,4 +58,6 @@ class ProfileTabsCollectionReusableView: UICollectionReusableView {
         gridButton.frame = CGRect (x: gridButtonX, y: Constants.padding, width: size, height: size)
         taggedButton.frame = CGRect (x: gridButtonX + (width/2), y: Constants.padding, width: size, height: size)
     }
+    
 }
+

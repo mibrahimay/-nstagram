@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Products/Debug-iphonesimulator/FirebaseSessions/FirebaseSessions.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Products/Debug-iphonesimulator/FirebaseSessions/FirebaseSessions.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "FirebaseSessions-Swift.h",
+      'external-contents': "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseSessions.build/unextended-interface-header.h",
+    }]
+    }]
+}

@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "6f37d244265c32526784ca71226b6ec97a34c31cbb878749b424d45fd1ed8953"
+build_start_time: [1714206887, 426527000]
+build_end_time: [1714206887, 798678000]
+inputs:
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseDatabase/FirebaseDatabase/Swift/Sources/Codable/DataSnapshot+ReadDecodable.swift"
+  : [1708180996, 229622112]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseDatabase/FirebaseDatabase/Swift/Sources/Codable/DatabaseReference+WriteEncodable.swift"
+  : [1708180996, 230683700]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseDatabase/FirebaseDatabase/Swift/Sources/Codable/EncoderDecoder.swift"
+  : [1708180996, 229380245]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseDatabase/FirebaseDatabase/Swift/Sources/Codable/ServerTimestamp.swift"
+  : [1708180996, 230528247]
+  ? "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseDatabase/FirebaseDatabase/Swift/Sources/SPMSwiftHeaderWorkaround.swift"
+  : [1708180996, 230834779]

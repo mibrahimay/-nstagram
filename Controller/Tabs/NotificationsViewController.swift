@@ -1,15 +1,7 @@
-//
-//  NotificationsViewController.swift
-//  Instagram
-//
-//  Created by Afraz Siddiqui on 8/14/20.
-//  Copyright © 2020 ASN GROUP LLC. All rights reserved.
-//
-
 import UIKit
 
 enum UserNotificationType {
-    case like(post: UserPost)
+    case like(post: Userpost)
     case follow(state: FollowState)
 }
 
@@ -64,30 +56,34 @@ final class NotificationsViewController: UIViewController, UITableViewDelegate, 
     }
 
     private func fetchNotifications() {
-        for x in 0...100 {
+        for i in 0...100 {
             let user = User(username: "joe",
-                            bio: "",
-                            name: (first: "", last: ""),
-                            profilePhoto: URL(string: "https://www.google.com")!,
-                            birthDate: Date(),
-                            gender: .male,
-                            counts: UserCount(followers: 1, following: 1, posts: 1),
-                            joinDate: Date())
-            let post = UserPost(identifier: "",
-                                postType: .photo,
-                                thumbnailImage: URL(string: "https://www.google.com/")!,
-                                postURL: URL(string: "https://www.google.com/")!,
-                                caption: nil,
-                                likeCount: [],
-                                comments: [],
-                                createdDate: Date(),
-                                taggedUsers: [],
-                                owner: user)
-            let model = UserNotification(type: x % 2 == 0 ? .like(post: post) : .follow(state: .not_following),
-                                         text: "Hello World",
-                                         user: user)
-            models.append(model)
-        }
+                             bio: "",
+                             name: (first: "", last: ""),
+                             birthDate: Date(),
+                             gender: .male,
+                             counts: UserCount(followers: 1, following: 1, posts: 1),
+                             joindate: Date(), // Make sure you use joindate here, not joinDate
+                             profilePhoto: URL(string: "https://www.google.com")!)
+
+            let post = Userpost(identifier: "",
+                                 postType: .photo, // Make sure it's Userpost, not UserPost
+                                 thumbnailImage: URL(string: "https://www.google.com/")!,
+                                 postURL: URL(string: "https://www.google.com/")!,
+                                 caption: nil as String?, // Provide the type information or remove the assignment if it's optional
+                                 likeCount: [],
+                                 comments: [],
+                                 createdDate: Date(),
+                                 taggedUsers: [],
+                                 owner: user)
+
+                                               
+                                               
+             let model = UserNotification(type: i % 2 == 0 ? .like(post: post) : .follow(state: .not_following),
+                                          text: "Hello World",
+                                          user: user)
+             models.append(model)
+         }
     }
 
     private func addNoNotificationsView() {
@@ -124,9 +120,8 @@ final class NotificationsViewController: UIViewController, UITableViewDelegate, 
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
         return 52
     }
-
+    
 }
-
 extension NotificationsViewController: NotificationLikeEventTableViewCellDelegate {
     func didTapRelatedPostButton(model: UserNotification) {
         switch model.type {
@@ -141,9 +136,15 @@ extension NotificationsViewController: NotificationLikeEventTableViewCellDelegat
     }
 }
 
+
 extension NotificationsViewController: NotificationFollowEventTableViewCellDelegate {
     func didTapFollowUnFollowButton(model: UserNotification) {
+        print("tapped button")
+    }
+    
+    func didClickFollowUnFollowButton(model: UserNotification) {
         print("tapped button")
         // perform database update
     }
 }
+

@@ -1,0 +1,45 @@
+{
+  "" : {
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-master.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-master.dia",
+    "emit-module-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-master-emit-module.dia",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/FirebaseCoreInternal-master.swiftdeps"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift" : {
+
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift" : {
+
+  }
+}

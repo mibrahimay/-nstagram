@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImage</string>
+			<key>relativePath</key>
+			<string>./Image.imageset</string>
+			<key>swiftSymbol</key>
+			<string>image</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameGradient</string>
+			<key>relativePath</key>
+			<string>./gradient.imageset</string>
+			<key>swiftSymbol</key>
+			<string>gradient</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameLogo</string>
+			<key>relativePath</key>
+			<string>./logo.imageset</string>
+			<key>swiftSymbol</key>
+			<string>logo</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameLogo1</string>
+			<key>relativePath</key>
+			<string>./logo 1.imageset</string>
+			<key>swiftSymbol</key>
+			<string>logo1</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTest</string>
+			<key>relativePath</key>
+			<string>./test.imageset</string>
+			<key>swiftSymbol</key>
+			<string>test</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTest2</string>
+			<key>relativePath</key>
+			<string>./test2.imageset</string>
+			<key>swiftSymbol</key>
+			<string>test2</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

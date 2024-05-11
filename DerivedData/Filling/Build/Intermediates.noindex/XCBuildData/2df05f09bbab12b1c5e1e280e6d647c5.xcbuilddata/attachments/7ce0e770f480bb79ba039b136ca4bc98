@@ -1,0 +1,368 @@
+{
+  "" : {
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Filling-master.dia",
+    "emit-module-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Filling-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Filling-master-emit-module.dia",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Filling-master.swiftdeps"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Controller/Other/General/EditProfileViewController.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/EditProfileViewController.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/EditProfileViewController.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/EditProfileViewController.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/EditProfileViewController.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/EditProfileViewController.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/EditProfileViewController.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/EditProfileViewController.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/EditProfileViewController~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Controller/Other/General/ListViewController.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ListViewController.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ListViewController.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ListViewController.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ListViewController.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ListViewController.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ListViewController.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ListViewController.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ListViewController~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Controller/Other/General/PostEditorViewController.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostEditorViewController.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostEditorViewController.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostEditorViewController.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostEditorViewController.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostEditorViewController.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostEditorViewController.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostEditorViewController.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostEditorViewController~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Controller/Other/General/PostViewController.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostViewController.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostViewController.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostViewController.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostViewController.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostViewController.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostViewController.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostViewController.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostViewController~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Controller/Other/General/PublishViewController.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PublishViewController.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PublishViewController.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PublishViewController.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PublishViewController.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PublishViewController.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PublishViewController.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PublishViewController.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PublishViewController~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Controller/Other/General/SearchResultViewController.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchResultViewController.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchResultViewController.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchResultViewController.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchResultViewController.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchResultViewController.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchResultViewController.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchResultViewController.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchResultViewController~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Controller/Other/General/SearchViewController.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchViewController.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchViewController.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchViewController.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchViewController.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchViewController.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchViewController.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchViewController.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SearchViewController~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Controller/Other/General/SettingsViewController.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SettingsViewController.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SettingsViewController.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SettingsViewController.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SettingsViewController.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SettingsViewController.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SettingsViewController.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SettingsViewController.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SettingsViewController~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Controller/Other/Onboarding/LoginViewController.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/LoginViewController.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/LoginViewController.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/LoginViewController.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/LoginViewController.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/LoginViewController.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/LoginViewController.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/LoginViewController.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/LoginViewController~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Controller/Other/Onboarding/SignupViewController.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SignupViewController.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SignupViewController.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SignupViewController.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SignupViewController.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SignupViewController.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SignupViewController.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SignupViewController.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SignupViewController~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Controller/Tabs/CameraViewController.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/CameraViewController.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/CameraViewController.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/CameraViewController.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/CameraViewController.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/CameraViewController.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/CameraViewController.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/CameraViewController.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/CameraViewController~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Controller/Tabs/Explore.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Explore.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Explore.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Explore.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Explore.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Explore.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Explore.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Explore.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Explore~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Controller/Tabs/HomeViewController.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HomeViewController.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HomeViewController.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HomeViewController.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HomeViewController.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HomeViewController.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HomeViewController.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HomeViewController.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HomeViewController~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Controller/Tabs/NotificationsViewController.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationsViewController.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationsViewController.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationsViewController.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationsViewController.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationsViewController.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationsViewController.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationsViewController.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationsViewController~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Controller/Tabs/ProfileViewController.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileViewController.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileViewController.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileViewController.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileViewController.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileViewController.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileViewController.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileViewController.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileViewController~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Models/Models.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Resources/AppDelegate.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Resources/AuthManager.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AuthManager.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AuthManager.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AuthManager.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AuthManager.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AuthManager.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AuthManager.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AuthManager.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AuthManager~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Resources/Databases.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Databases.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Databases.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Databases.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Databases.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Databases.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Databases.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Databases.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Databases~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Resources/Extensions.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Extensions.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Extensions.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Extensions.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Extensions.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Extensions.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Extensions.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Extensions.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/Extensions~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Resources/SceneDelegate.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Resources/StorageController.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/StorageController.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/StorageController.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/StorageController.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/StorageController.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/StorageController.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/StorageController.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/StorageController.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/StorageController~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/Cells/FormTableViewCell.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/FormTableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/FormTableViewCell.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/FormTableViewCell.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/FormTableViewCell.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/FormTableViewCell.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/FormTableViewCell.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/FormTableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/FormTableViewCell~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/Cells/HomePost/AllPostsTableViewCell.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AllPostsTableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AllPostsTableViewCell.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AllPostsTableViewCell.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AllPostsTableViewCell.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AllPostsTableViewCell.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AllPostsTableViewCell.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AllPostsTableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/AllPostsTableViewCell~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/Cells/HomePost/HeaderPostTableViewCell.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HeaderPostTableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HeaderPostTableViewCell.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HeaderPostTableViewCell.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HeaderPostTableViewCell.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HeaderPostTableViewCell.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HeaderPostTableViewCell.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HeaderPostTableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/HeaderPostTableViewCell~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/Cells/HomePost/PostTableViewCell.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCell.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCell.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCell.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCell.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCell.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCell~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/Cells/HomePost/PostTableViewCellActions.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCellActions.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCellActions.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCellActions.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCellActions.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCellActions.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCellActions.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCellActions.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PostTableViewCellActions~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/Cells/Notifications/NotificationFollowEventTableViewCell.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationFollowEventTableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationFollowEventTableViewCell.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationFollowEventTableViewCell.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationFollowEventTableViewCell.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationFollowEventTableViewCell.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationFollowEventTableViewCell.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationFollowEventTableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationFollowEventTableViewCell~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/Cells/Notifications/NotificationLikeEventTableViewCell.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationLikeEventTableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationLikeEventTableViewCell.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationLikeEventTableViewCell.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationLikeEventTableViewCell.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationLikeEventTableViewCell.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationLikeEventTableViewCell.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationLikeEventTableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NotificationLikeEventTableViewCell~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/Cells/PhotoCollectionViewCell.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PhotoCollectionViewCell.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PhotoCollectionViewCell.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PhotoCollectionViewCell.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PhotoCollectionViewCell.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PhotoCollectionViewCell.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PhotoCollectionViewCell.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PhotoCollectionViewCell.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/PhotoCollectionViewCell~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/Cells/UserFollowTableViewCell.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-17457be2ebf9feb3c47c918790d0256e.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-17457be2ebf9feb3c47c918790d0256e.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-17457be2ebf9feb3c47c918790d0256e.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-17457be2ebf9feb3c47c918790d0256e.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-17457be2ebf9feb3c47c918790d0256e.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-17457be2ebf9feb3c47c918790d0256e.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-17457be2ebf9feb3c47c918790d0256e.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-17457be2ebf9feb3c47c918790d0256e~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/CollectionViewHeaders/NoNotificationsView.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NoNotificationsView.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NoNotificationsView.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NoNotificationsView.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NoNotificationsView.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NoNotificationsView.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NoNotificationsView.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NoNotificationsView.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/NoNotificationsView~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/CollectionViewHeaders/ProfileInfoHeaderCollectionReusableView.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileInfoHeaderCollectionReusableView.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileInfoHeaderCollectionReusableView.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileInfoHeaderCollectionReusableView.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileInfoHeaderCollectionReusableView.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileInfoHeaderCollectionReusableView.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileInfoHeaderCollectionReusableView.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileInfoHeaderCollectionReusableView.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileInfoHeaderCollectionReusableView~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/CollectionViewHeaders/ProfileTabsCollectionReusableView.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileTabsCollectionReusableView.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileTabsCollectionReusableView.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileTabsCollectionReusableView.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileTabsCollectionReusableView.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileTabsCollectionReusableView.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileTabsCollectionReusableView.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileTabsCollectionReusableView.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/ProfileTabsCollectionReusableView~partial.swiftmodule"
+  },
+  "/Users/macbook-m1/Documents/kendi projelerim/Filling/Views/CollectionViewHeaders/UserFollowTableViewCell.swift" : {
+    "const-values" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-aa11cb5481527f1944a0a40be28abc8a.swiftconstvalues",
+    "dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-aa11cb5481527f1944a0a40be28abc8a.d",
+    "diagnostics" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-aa11cb5481527f1944a0a40be28abc8a.dia",
+    "index-unit-output-path" : "/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-aa11cb5481527f1944a0a40be28abc8a.o",
+    "llvm-bc" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-aa11cb5481527f1944a0a40be28abc8a.bc",
+    "object" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-aa11cb5481527f1944a0a40be28abc8a.o",
+    "swift-dependencies" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-aa11cb5481527f1944a0a40be28abc8a.swiftdeps",
+    "swiftmodule" : "/Users/macbook-m1/Documents/kendi projelerim/Filling/DerivedData/Filling/Build/Intermediates.noindex/Filling.build/Debug-iphonesimulator/Filling.build/Objects-normal/arm64/UserFollowTableViewCell-aa11cb5481527f1944a0a40be28abc8a~partial.swiftmodule"
+  }
+}
