@@ -47,7 +47,7 @@ Run the project on an iOS simulator or a real device.
 🖼️ Screenshots (Optional: Add images of your app interface)
 🏠 Home Screen
 
-🔎 Explore Page
+🔎 Explore Page (Not available now)
 
 👤 Profile Page
 
