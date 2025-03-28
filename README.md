@@ -33,7 +33,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/instagram-clone.git
+git clone https://github.com/mibrahimay/-nstagram.git
 cd instagram-clone
 Open the project in Xcode.
 
